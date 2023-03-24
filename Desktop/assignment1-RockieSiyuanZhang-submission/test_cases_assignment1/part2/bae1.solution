@@ -1,0 +1,9 @@
+# This is the solution file for test_cases_assignment1/part1/ehc2.test.
+# This solution is designed to support only right-to-left implementations.
+# Number of nodes expanded must be with a factor of 1.1 of the numbers below.
+
+solution: """
+East East South South West South South West West South West West West West West West West West West
+"""
+solution_length: "19"
+expanded_nodes: "38"

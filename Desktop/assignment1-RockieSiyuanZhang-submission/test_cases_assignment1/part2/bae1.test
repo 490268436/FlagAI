@@ -1,0 +1,22 @@
+class: "PacmanBidirectionalSearchTest"
+algorithm: "bae"
+searchProblemClass: "BidirectionalPositionSearchProblem"
+
+# The following specifies the layout to be used 
+layoutName: "smallMaze"
+layout: """
+%%%%%%%%%%%%%%%%%%%%%%
+% %%        % %      %
+%    %%%%%% % %%%%%% %
+%%%%%%     P  %      %
+%    % %%%%%% %% %%%%%
+% %%%% %         %   %
+%        %%% %%%   % %
+%%%%%%%%%%    %%%%%% %
+%.         %%        %
+%%%%%%%%%%%%%%%%%%%%%%
+"""
+leewayFactor: "1.1"
+heuristic: "manhattanHeuristic"
+backwardsHeuristic: "backwardsManhattanHeuristic"
+timeout: "30"
