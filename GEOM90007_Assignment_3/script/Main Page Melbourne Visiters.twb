@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0611.2007                               -->
+<workbook original-version='18.1' source-build='2023.2.0 (20232.23.0611.2007)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <HideSortControls />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelExtractV2.true...ObjectModelExtractV2 />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <WorksheetBackgroundTransparency />
+  </document-format-change-manifest>
+  <repository-location id='MainPageMelbourneVisiters' path='/workbooks' revision='1.1' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Sheet1 (2023_most_wanted)' inline='true' name='federated.1mzjxu60zj6uqv10aot2v1w9v8f9' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='2023_most_wanted' name='excel-direct.06c6vc21oeux5l151ss341let1us'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/xueze/Documents/Masters Study/Semester 2/GEOM90007/Assignment 3/GEOM90007_Assignment_3/data/2023_most_wanted.xlsx' interpretationMode='0' password='' server='' validate='no' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.06c6vc21oeux5l151ss341let1us' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:C6:no:A1:C6:0' header='yes' outcome='6'>
+            <column datatype='integer' name='Rank' ordinal='0' />
+            <column datatype='string' name='City' ordinal='1' />
+            <column datatype='integer' name='No. of Australians who want to visit in next two years' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.06c6vc21oeux5l151ss341let1us' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:C6:no:A1:C6:0' header='yes' outcome='6'>
+            <column datatype='integer' name='Rank' ordinal='0' />
+            <column datatype='string' name='City' ordinal='1' />
+            <column datatype='integer' name='No. of Australians who want to visit in next two years' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <refresh increment-key='' incremental-updates='false' />
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:C6:no:A1:C6:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rank</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Rank]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Rank</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_52A388D8E64F42848E6E44C7DE04003B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>City</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[City]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>City</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RNZ_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_52A388D8E64F42848E6E44C7DE04003B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>No. of Australians who want to visit in next two years</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[No. of Australians who want to visit in next two years]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>No. of Australians who want to visit in next two years</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_52A388D8E64F42848E6E44C7DE04003B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[City]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_52A388D8E64F42848E6E44C7DE04003B]' role='measure' type='quantitative' />
+      <extract _.fcp.ObjectModelExtractV2.true...object-id='' _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_GB' class='hyper' dbname='C:/Users/xueze/Documents/我的 Tableau 存储库/数据源/Sheet1 (2023_most_wanted).hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='10/18/2023 07:03:23 AM' username='tableau_internal_user'>
+          <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh increment-key='' incremental-updates='false'>
+            <refresh-event add-from-file-path='Sheet1 (2023_most_wanted)' increment-value='%null%' refresh-type='create' rows-inserted='5' timestamp-start='2023-10-18 07:03:22.778' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Rank</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Rank]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Rank</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Sheet1</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_52A388D8E64F42848E6E44C7DE04003B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>City</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[City]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>City</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Sheet1</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RNZ_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_52A388D8E64F42848E6E44C7DE04003B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>No. of Australians who want to visit in next two years</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[No. of Australians who want to visit in next two years]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>No. of Australians who want to visit in next two years</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Sheet1</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_52A388D8E64F42848E6E44C7DE04003B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;New Zealand&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet1' id='Sheet1_52A388D8E64F42848E6E44C7DE04003B'>
+            <properties context=''>
+              <relation connection='excel-direct.06c6vc21oeux5l151ss341let1us' name='Sheet1' table='[Sheet1$]' type='table'>
+                <columns gridOrigin='A1:C6:no:A1:C6:0' header='yes' outcome='6'>
+                  <column datatype='integer' name='Rank' ordinal='0' />
+                  <column datatype='string' name='City' ordinal='1' />
+                  <column datatype='integer' name='No. of Australians who want to visit in next two years' ordinal='2' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <actions>
+    <action caption='Highlight 1 (generated)' name='[Action1_35F0A6F302B040AC9BFFF5ECF136D47D]'>
+      <activation auto-clear='true' type='on-select' />
+      <source type='sheet' worksheet='Most popular Australian holiday destinations' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='City' />
+        <param name='target' value='Most popular Australian holiday destinations' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Most popular Australian holiday destinations'>
+      <layout-options>
+        <caption>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='Arial'>Melbourne crowned Australia’s top domestic holiday destination. Source: </run>
+            <run auto-url='true' bold='true' fontcolor='#000000' fontname='Arial' hyperlink='tabdoc:load-url url=&amp;quot;https://thenewdaily.com.au/life/2023/08/02/melbourne-top-holiday-destination/&amp;quot;'>https://thenewdaily.com.au/life/2023/08/02/melbourne-top-holiday-destination/</run>
+          </formatted-text>
+        </caption>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1 (2023_most_wanted)' name='federated.1mzjxu60zj6uqv10aot2v1w9v8f9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1mzjxu60zj6uqv10aot2v1w9v8f9'>
+            <column datatype='string' name='[City]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column datatype='integer' name='[No. of Australians who want to visit in next two years]' role='measure' type='quantitative' />
+            <column-instance column='[City]' derivation='None' name='[none:City:nk]' pivot='key' type='nominal' />
+            <column-instance column='[No. of Australians who want to visit in next two years]' derivation='Sum' name='[sum:No. of Australians who want to visit in next two years:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[none:City:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[sum:No. of Australians who want to visit in next two years:qk]' shelf='rows' />
+          </shelf-sorts>
+          <hide-sort-controls />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[sum:No. of Australians who want to visit in next two years:qk]' field-type='quantitative' max='2936850' min='0' range-type='fixed' scope='cols' type='space' />
+            <format attr='title' class='0' field='[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[sum:No. of Australians who want to visit in next two years:qk]' scope='cols' value='Number of Australians who want to visit in next two years' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[sum:No. of Australians who want to visit in next two years:qk]' palette='red_gold_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='background-color' value='#00000000' />
+            <format attr='band-size' scope='cols' value='1' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-disallow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <customized-tooltip show-buttons='false'>
+              <formatted-text>
+                <run fontcolor='#787878'>City:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[none:City:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Count of interested visiters:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[sum:No. of Australians who want to visit in next two years:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#f07925' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[none:City:nk]</rows>
+        <cols>[federated.1mzjxu60zj6uqv10aot2v1w9v8f9].[sum:No. of Australians who want to visit in next two years:qk]</cols>
+      </table>
+      <simple-id uuid='{57F882DF-EA30-45E7-A26F-A65954398C4B}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Most popular Australian holiday destinations'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='bottom'>
+          <strip size='96'>
+            <card type='caption' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <floating-toolbar-visibility value='2' />
+      </viewpoint>
+      <simple-id uuid='{532248C9-6E90-4679-8A9A-DDBE435EF040}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='179' name='Most popular Australian holiday destinations' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAACzCAYAAADfahNoAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAVwUlEQVR4nO3de2xT5/3H8bedi50LiUnIDUgwgTSkEC6DMmAp27ikFBUo5TJKARWxJmul
+      DWl/FDFUbao2UdBWaZVGBSoCIhiQLNpKgIYQI8FSWhqccRu3tGkI2YgTwuyQGF9zfn8gzo+Q
+      kFLAic35vv4iPvY5zzH++DzP8fmeR6coioIQGqXv7wYI0Z8kAELTJABC0yQAQtMkAELTJABC
+      0yQAQtMkAELTJABC0yQAQtMkAELTJABC0yQAQtMkAELTJABC0yQAQtMkAELTJABC0yQAQtMk
+      AELTJABC0yQAQtMkAELTJABC0yQAQtMkAELTJABC0yQAAeZ0Ovu7CU/s9u3b/d2EJ/awfZAA
+      CE2TAAhNC+/vBmiB4zfP9XcTnpijvxvwFPS0D3IEEJomARCaFrAAuFwuNm3axJ/+9Cc8Hk+X
+      ZVevXuWXv/wlZWVl37meuro6ioqK1HUWFxfjcrkC0mahPQE9ApjNZkwmEzabrcvjFy9eZNKk
+      SYHctBCPJKAB0Ol0jBo1isuXL6uPOZ1OWlpaGDZsWCA3LcQjCfhZoMzMTD777DM8Hg+RkZE0
+      NjYSFxfHgAED1B8nFEXhyy+/pLS0lI6ODp577jlWr16NyWTqtr62tja2bNlCbW0tMTExLFq0
+      iClTpqDT6bh06RJ//etfaW5uJjk5meXLl5OTk4Pdbmffvn28+eabGI1GXC4XO3fuZNmyZRiN
+      Rg4cOEBeXh5FRUXodDrWrl3L3//+d8LCwrBarTgcDrKzsyksLCQ6Ohq73c6ePXu4cOECUVFR
+      LFy4kLy8PHQ6XaDfTvGUBTwAJpOJAQMGYLPZSE9P58qVK4wbN46Ojg71OY2NjbS2tvKHP/yB
+      yMhILl++zNGjR1myZEm39en1ehYtWkRGRgY2m42ioiKGDh1KdHQ0hw8fZs2aNWRkZNDQ0EBp
+      aSnJycmEhYX12kan00lpaSnz5s3j+eefR6fT4Xa7SUhI4L333sNgMLB3716ampoYPnw4J06c
+      YO7cubzzzjt4PB5KSkrIzMxkyJAhT/39E4EV8ADodDqee+45rl69SlJSEg6Hg/T09C7doqtX
+      r1JWVtZlUJyZmdnjYDc2NpaUlBR0Oh2pqalMmzaN5uZm9Ho9WVlZmM1m4O74Iysri4aGBoYP
+      H95rG91uNwsXLmTo0KHqY9HR0UyfPp3Y2FgABg8eDEB7ezvV1dUcOnSoyzpycnIkACGoT34I
+      M5vNnD17lvr6euLj44mJiemy3O12s2bNGiZPnvy91+10OomKinqi9g0cOJBBgwY90nM7OzsZ
+      OnQoGzZswGg0PtF2Rf/rk98B4uLiiIqKoqqqiqysrG7LR44cSWVlJU1NTcDdD/XZs2fxer3d
+      nuvz+fB6vSiKQm1tLWfPnsVsNpORkUFtbS319fV0dnZSX19PbW0tGRkZ6HQ6vF4vHo8Hr9dL
+      dXU1N27ceKx9GTBgAAAWiwWfz4eiKNTX19PY2PhY6xP9q0+OAPe6QYcPHyYjI6Pb8qysLCZP
+      nszmzZvp6OjAZDIxe/bsHvvubreb3/72tzidTlJSUli1ahWJiYkAzJ07l+3bt3cZBCcmJqIo
+      CiNHjmT9+vWEh4fzgx/8gISEhMfaF71ez5IlS/jkk084ePAger2ekSNHsnz58sdan+hfOkVR
+      lP5uxLPM6XTi/f34/m6GeAi5FEJomgRAaJp0gQLM6XQSHR3d3814Irdv31YH/6HqYfsgRwCh
+      aRIAoWkSAKFpEgChaVIT3AekJjg4SE2wEA+QAAhNC3gXqLGxkd27d3Pt2jX0ej2jR49m+fLl
+      PRa73K+uro6qqipWrVrV4/Li4mLy8/O7rcfn81FRUUFlZSV37txh2LBhrF69mpSUlKe2T+LZ
+      EdAA1NfXs2vXLhYuXEhubi5+v5+LFy9y69at7wzA46qoqOD69eu8//77xMTE8O2333Lnzp2n
+      vh2Xy8WBAweYP3++XBYdwgIWgHtljkuXLiUnJ+fuxsLDGTt2bKA2icPh4Pr167zxxhtqIUtm
+      ZmbAtidCX8AC4Ha78Xg8PV7+fP9zSkpK+OKLLwCYOnUqS5YswWAwdHvujRs32LFjBw0NDURE
+      RGAymcjPz+/ynJs3b5Kamqp++O93f91xe3s7GRkZrF69mrS0NJxOJzt27ODixYv4/X7MZjMF
+      BQUkJCRw69Yttm3bRn19PREREeTn5zN69Gj+/Oc/43K5sFgsABQUFDBx4sQnectEPwhYAFwu
+      F06nU72mv6ysjIMHDwL//2E5evQoBoOBDz/8EIADBw5w9OhRXnnllS7rcjqd7Nu3j5dffpnx
+      48fj8/koLi7utk273Y5e3/O4/ttvv+XUqVO8++67JCUlcebMGUpKSigoKCAiIoL58+dTWFhI
+      WFgY586do6amhlmzZlFdXU1eXh7r1q3D5/PR2tpKamoqmzZtki7QMyBgAYiIiCAyMhK/3w/A
+      vHnzmDdvHlarFbj77f+f//ynyzf+zJkzKSkpwe12d1lXU1MTzz//PBMmTFDXHRER0W2bJpPp
+      oZVZly9fZtq0aSQnJwMwfvx4zp07h81mY8iQIVRXV1NVVaUW69/7Ns/Ozubjjz+mpqaG3Nxc
+      pkyZ8qRvjQgiATsNGh0dTVhYGA0NDU+8LkVRHumWI4MGDaKpqYn29vbvtf7z58/j8/nYuHEj
+      W7duZd26deq3utls5v333+cnP/kJNpuNv/zlL8/EPf/FXQELgE6nIy8vj9LSUurq6lAUBZ/P
+      p94lzmAwMGTIECwWC263G7fbjcViYciQId3GAAkJCZw9e5aGhgYURcFms9HS0tJtm/Hx8aSn
+      p7Nnzx7a29tRFIW6ujrq6+sZNWoUJ0+epLm5GUVROHPmDA6Hg5SUFLxeL4mJiURGRuJwOLBa
+      rWo9cn19PW1tbeTm5rJgwQISEhLUZa2trdy6dUvdNxF6AnoadMSIESxatIhdu3Zhs9kICwtj
+      5MiRavdi9uzZlJSU8Otf/xq4OwieP39+t/UMHDiQ2bNn89FHH9HR0UFWVlaPXSCA/Px8Kioq
+      2LBhAx6PR/0dIDk5mR/+8Ids3ry5yyDYaDQyZswYtm7dSklJCUlJSUyePFn9lvd4POzYsQOb
+      zYbBYGDx4sXExcWh0+nIzs5m06ZN+Hw+CgsLA3qGSwSGFMQEmNQEBze5FEJomgRAaJp0gQJM
+      aoKDg9QEC9EDCYDQNAmA0DQJgNA0qQnuA1ITHBykJliIB0gAhKaFTBdIURT+9a9/sX//fux2
+      OyaTiZkzZzJjxgzCwx99N+rq6qirq2PWrFkBbK0IFSETgMbGRqqqqnj33XdJTEyktbWV48eP
+      09HRQXx8fH83T4SokAnAzZs3MZvN6mwwiYmJvPbaa/3cKhHqQiYAw4YN49ChQ+h0OqZPn97l
+      W7+qqgqAvLw84O4lzPv27WPBggXExMRQUVHBkSNHcLvdREVFMXPmTOD/b73S2trK119/TXh4
+      OCtWrOCFF1546NzFbrebiooKXn/9dbXrZbFYGDRoEOPGjevjd0U8qZC8Fsjn83Hx4kUsFgtr
+      1qwhLi6uy4ewtLSUyZMnk56ezv79+5k9e7Y6J9j9Y4AHxwN2u52KigqWLl2KxWLpVnecmZnJ
+      2rVraWlp4csvv2Tx4sX8+9//xmazqaF6kFwOHdxC5ghwv3u3V7lx4wY3b94kLi6OsWPH8umn
+      nzJ48GA6OjpISUlBURQURXlooXxvepu6dciQITidTq5fv86lS5ekTjiEhcxp0EuXLvHPf/4T
+      l8uFoig0NjZy7tw59Qq/QYMGERcXx+HDh8nKyiIyMhKdTkdsbCwWiwWv14vX66Wurg6Px/Od
+      2+tt6la9Xs+ECROoqKjA4/HIBNkhLGSOAElJSVRVVVFcXIzX6yUlJYVly5aRlJQE3K1Bnjp1
+      Krt37+bVV19VXzdjxgyKior41a9+RUxMDNnZ2b3eq+ie75q6ddSoURw7dowXXnjhsY4wIjiE
+      5BigJ4qicOrUKWw2GwsWLAj49mw2G//4xz9YuXJlr9f7yxgguIXMEaA3drudDz74gJSUFAoL
+      CwO+vW3btvH111/zi1/8IuSLXbTumTkCBCs5AgQ3CUCASUlkcJCSSCF6IAEQmiYBEJomARCa
+      9kycBg12UhIZHKQkUogHSACEpgVFF8hut7Nx40bsdjtw92rPSZMm8bOf/eyJz6FXVlaSmZkp
+      k+WJHgVFAODulERLly4F7l6K/Omnn/LFF1889Dp7u93Oxx9/zNtvvx2wKVfFsy8ou0AGg4GJ
+      Eyeq84v1xGQysX79evnwiycSNEeAexRFobm5mc8++0ydLdJqtaIoCna7nbKyMlatWsWIESPY
+      t28fb775JgaDAYvFQllZGW63m8GDB1NYWEhKSgp+v5/y8nKuXLmCz+frMhXr6dOnKSkpwW63
+      YzQamTdvHjNnzkSn07F3717CwsKwWq04HA6ys7MpLCwkOjoau93Onj17uHDhAlFRUSxcuJC8
+      vLxHmsdMBJegCYDValXn3E1LS2PFihWYzWZ1+enTp4mNjeWDDz4gKipKHS8AtLW1UVtby+9/
+      /3tiY2O5desWUVFR6vLRo0dTUFCA3++nuLiY48ePk5+fT3p6Or/5zW+Ij4/H7Xazf/9+2tra
+      1L8TEhJ47733MBgM7N27l6amJoYPH86JEyeYO3cu77zzDh6Ph5KSEjIzM6UwJgQFTQDuHwM4
+      HA7Ky8tpbm5m2rRpwN27QCxcuLDHewANGDCA6OhoNm/ezKhRo5g6dapaAxwWFkZ6ejrh4eGE
+      h4fz0ksvqUFzuVxs376d69ev09nZidFoJC8vj/j4eKKjo5k+fbo66fbgwYMBaG9vp7q6mkOH
+      DnVpQ05OjgQgBAVNAO4XHx/PSy+9REVFhfpYZmbmQ2+ApdfrWbVqFTdu3ODq1auUlJTw4osv
+      quG5n9vtxu/3d7m7g9lsRqfTUVRU9J1t6+zsZOjQoWzYsEEmyH4GBOUg2Ofz8fnnn/OoV2q7
+      XC4uX75MUlISP/7xj5kxY4Y6y2NnZ6c68XZbWxtlZWVkZ2ejKAoRERGYTCb8fj9Xrlx56CTb
+      97t3Sa3FYsHn86EoCvX19Y/0WhF8guYIcP8YIDw8nNGjR7N8+fJHem1YWBg1NTVs2bIFr9dL
+      VlYWa9asASAyMpLdu3fT2tpKdHQ0c+bMYdKkSeh0OkaPHs3vfvc7fD4fU6ZMUW+61Ru9Xs+S
+      JUv45JNPOHjwIHq9npEjRz5yW0VwkYKYAJOKsOAWlF0gIfqKBEBomnSBAkxqgoOD1AQL0QMJ
+      gNA0CYDQNAmA0LSg+SHsWSY1wcFBaoKFeIAEQGhayAWgsrKSurq6Lo9ZrVbKysq+87V1dXVU
+      VlYGqmkiBIVcAIKFy+WiuLgYl8vV300RT0ACIDTtmTsL5PP51GlRPR4PY8aM4Y033lCL569c
+      ucLx48dpaWkhIyOD1atXk5aWhtPpZMeOHVy8eBG/34/ZbKagoICEhIRuNclz5syhvLwcl8ul
+      XsJdUFDAxIkT+3PXxWMIuWuBysrKOHjwYLfHX3nlFebNm0d1dTVnzpzh9ddfx2g0cuLECa5f
+      v87KlSupr6/n5MmTvPrqq8TExFBdXc2pU6coLCxEp9PR1NREWloaYWFhnDt3jpaWFmbNmoXV
+      aqW6uprY2FgWLVpEVFQULpeLAwcOMH/+/F4rw+Ry6OAWckeAqKgo1q1b1+VGV1arlf/+97/A
+      3W/4GTNmqLW806ZNY9euXdy+fRuA1NRUddmkSZO4evUqTqeT2NhYqqurqaqqoqOjA6DLN3pv
+      NckidGn6f9Pn86nlkufPn8fn87Fx40YMBoM6i/w9vdUki9D1zA2Cs7OzOXbsGO3t7fh8Pk6e
+      PInRaFQvhXW73SiKgs/nw2KxEB4eTlxcHF6vl8TERCIjI3E4HFitVrxeb6/bam1t5datW+r6
+      ROh55r7SJkyYQEtLCxs2bOgyCNbr9URERHDhwgUOHz4MQG5uLitXrkSv1zNmzBi2bt1KSUkJ
+      SUlJTJ48WS2s74nRaCQ7O5tNmzbh8/koLCxk7NixfbWb4ikJuUFwqJFBcHB75rpAQnwfEgCh
+      adIFCjCpCQ4OUhMsRA/kCBBgvZ1JEv3vmTsNGoxCvQv0LHTjHrYP0gUSmiYBEJomARCaJgEQ
+      miZngYSmyRFAaJoEQGiaBEBomgRAaJoEQGiaXArRhy5cuEBRURG3b99m3LhxrFq1Sv15vri4
+      mPz8fPX2LadPn6a2tpZly5ah0+meyvYVRaG2tpbKykrcbjdvv/12lzta9NY+u93O9u3bqa2t
+      JSkpiTVr1mA2m/us7fd4vV6OHDnCsWPHcDqdpKWl8fOf/1ydpPz77gOK6BM3b95U/vjHPyrX
+      rl1TPB6P8re//U0pLS1Vl+/fv1/53//+pyiKorS0tCgfffSR4nA4nmobampqlG3btinXrl1T
+      9u/fr9y5c+eR2uf3+5WdO3cqx44dU/x+v3L27Fnlww8/VDo6Ovqs7fccOXJEKS0tVW7fvq10
+      dnYqNTU1ypYtWxSPx/NY+yBdoD5y6dIlcnNzycjIICIiglmzZtHc3KzeguUen89HeXk5s2bN
+      Ii4u7qm2YcKECbz11lskJyd/r/bdvHkTt9vNj370I/R6Pbm5uaSmptLQ0NBnbb9n5syZvPba
+      a8TGxqLT6cjJyWHgwIH4/f7H2gcJQB/p6OggIyND/TsuLo74+Hj1tiz3nD59mujoaEaNGhU0
+      7WtvbyctLY3IyEgAdDodI0aMoK2trc/bHhYWpv5bURS++uorBg4ciNFofKx9kAD0EZ/Pp775
+      cPc/wOv1Yrfbgbv903Xr1nHgwAF++tOfPvW+85O078FlcPeDaLPZ+q3td+7cYefOneh0OvLz
+      8x97HyQAfSQ8PByPx6P+rSgKERER6sDRZDKxadMmXn75ZQ4fPozSx1eo9Na+B5cB+P1+UlJS
+      +qXtNpuNXbt2MWfOHF588UU1cI+zDxKAPhITE9Olz9zW1obD4cBgMHR53tSpU/H7/Xz11VdB
+      077Y2Fhu3LihfoAUReGbb77p1s/vi7a3tbVRXl7OypUrSUtLe+J9kAD0kZycHM6fP09DQwNe
+      r5fKykqSk5OJiYnp8rzw8HAWL16M1WpVuxj93b5BgwZhMBj4/PPP6ezs5Pz58zQ1NXXpb/dV
+      22tqahg/fny39+1x90GuBu1D95+jnjRpEitWrFCPAA+eS//mm28oLy9n9erVT60csac7axuN
+      RtauXUtmZmav7bv/HHpqaipvvfWWeu69L9p+z/bt27sdYUwmE+vXr8dkMn3vfZAACE2TLpDQ
+      NAmA0DQJgNA0CYDQNAmA0DQJgNA0CYDQNAmA0DQJgNA0CYDQNAmA0DQJgNA0CYDQNAmA0DQJ
+      gNA0CYDQNAmA0DQJgNA0CYDQNAmA0DQJgNA0CYDQNAmA0DQJgNA0CYDQNAmA0DQJgNA0CYDQ
+      NAmA0DQJgNC0/wPGwSSMmYRHvAAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>

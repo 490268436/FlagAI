@@ -1,0 +1,615 @@
+"label","name","lat","lng"
+"Bike Share Dock","Harbour Town - Docklands Dve - Docklands",-37.814022,144.939521
+"Bike Share Dock","State Library - Swanston St / Little Lonsdale St - City",-37.810702,144.964417
+"Bike Share Dock","Yarra's Point - Lorimer St / Yarra River - Docklands",-37.823805,144.943051
+"Bike Share Dock","Argyle Square - Lygon St - Carlton",-37.802129,144.96677
+"Bike Share Dock","Parliament Station - Nicholson St / Albert St - City",-37.809072,144.972762
+"Bike Share Dock","Yarra's Edge - River Esp / Yarra River - Docklands",-37.824468,144.946033
+"Bike Share Dock","Southern Cross Station - Spencer St - City",-37.818124,144.953581
+"Bike Share Dock","Museum - Rathdowne St - Carlton",-37.803868,144.969609
+"Bike Share Dock","RACV - Bourke St / New Chancery Ln - City",-37.81523,144.959731
+"Bike Share Dock","Bourke Street Mall - 205 Bourke St - City",-37.813088,144.967437
+"Bike Share Dock","NAB - Harbour Esp / Bourke St - Docklands",-37.818306,144.945923
+"Bike Share Dock","North Melbourne Station - Adderley St - North Melbourne",-37.807021,144.941854
+"Bike Share Dock","Queensbridge St / Yarra River - Southbank",-37.821071,144.961113
+"Bike Share Dock","Siddeley St / Seafarers Bridge - Docklands",-37.823124,144.951918
+"Bike Share Dock","Aquarium - Kings Way / Flinders St - City",-37.821324,144.958318
+"Bike Share Dock","Richmond Station - Brunton Ave - East Melbourne",-37.822962,144.988507
+"Bike Share Dock","Rod Laver Arena - Batman Ave / Swan St - City",-37.822987,144.978459
+"Bike Share Dock","Spring St / Collins St - City",-37.813774,144.974054
+"Bike Share Dock","VCAM - St Kilda Rd / Southbank Blvd - Southbank",-37.824088,144.970085
+"Bike Share Dock","Jolimont Station - Wellington Pde South - East Melbourne",-37.816731,144.982006
+"Bike Share Dock","ACCA - Sturt St - Southbank",-37.826578,144.966542
+"Bike Share Dock","ANZ - Collins St - Docklands",-37.821568,144.944488
+"Bike Share Dock","Flagstaff Gardens - Peel St - West Melbourne",-37.809216,144.955223
+"Bike Share Dock","Arts Centre - St Kilda Road - City",-37.820715594013,144.969164729118
+"Bike Share Dock","Melbourne Uni - Tin Alley - Carlton",-37.79625,144.960858
+"Bike Share Dock","RMIT - Swanston St / Franklin St - City",-37.807699,144.963095
+"Bike Share Dock","St Paul's Cathedral - Swanston St / Flinders St - City",-37.817189,144.967409
+"Bike Share Dock","Vic Barracks - Coventry St / St Kilda Rd - Southbank",-37.828887,144.970822
+"Bike Share Dock","Sandridge Bridge - Southbank",-37.820836,144.962266
+"Bike Share Dock","New Quay Prom / Harbour Esp - Docklands",-37.814117,144.944081
+"Bike Share Dock","University Square - Grattan St - Carlton",-37.800214,144.960313
+"Bike Share Dock","Victoria Market - Elizabeth St / Victoria St - City",-37.806091,144.959017
+"Bus Stop","Cemetery Rd/College Cres (Parkville)",-37.79199,144.96119
+"Bus Stop","Rathdowne St/Princes St (Carlton)",-37.792625,144.970814
+"Bus Stop","Nicholson St/Princes St (Carlton)",-37.793139,144.975002
+"Bus Stop","Carlton Baths/Rathdowne St (Carlton)",-37.793813,144.971259
+"Bus Stop","Princes St/Rathdowne St (Carlton)",-37.792937,144.971169
+"Bus Stop","Wellington Pde/Hoddle St (East Melbourne)",-37.817112,144.989865
+"Bus Stop","West Richmond Railway Station/Hoddle St (East Melbourne)",-37.814956,144.990264
+"Bus Stop","Grey St/Hoddle St (East Melbourne)",-37.812423,144.990742
+"Bus Stop","Victoria Pde/Hoddle St (East Melbourne)",-37.810482,144.991067
+"Bus Stop","Cromwell St/Victoria Pde (East Melbourne)",-37.80993,144.989321
+"Bus Stop","Clarendon St/Victoria Pde (East Melbourne)",-37.809234,144.982922
+"Bus Stop","Eye & Ear Hospital/Victoria Pde (East Melbourne)",-37.808605,144.977215
+"Bus Stop","Lygon St/Cemetery Rd (Carlton)",-37.792914,144.967706
+"Bus Stop","Lygon St/Elgin St (Carlton)",-37.797298,144.967972
+"Bus Stop","Faraday St/Lygon St (Carlton)",-37.798936,144.967337
+"Bus Stop","Mercy Health Aged Care/William St (Parkville)",-37.77618,144.939758
+"Bus Stop","Auckland Lane/Cade Way (Parkville)",-37.77815,144.939022
+"Bus Stop","Parkville Ave/Garrard St (Parkville)",-37.779163,144.941321
+"Bus Stop","Royal Melb Hosp Royal Park/Poplar Rd (Parkville)",-37.779041,144.94674
+"Bus Stop","Royal Park Station/Poplar Rd (Parkville)",-37.780654,144.950851
+"Bus Stop","Melbourne Zoo/Poplar Rd (Parkville)",-37.783309,144.954775
+"Bus Stop","Princes Park/Royal Pde (Parkville)",-37.785405,144.959793
+"Bus Stop","Princes Park/Royal Pde (Parkville)",-37.784979,144.959101
+"Bus Stop","Melbourne Zoo/Poplar Rd (Parkville)",-37.783573,144.954949
+"Bus Stop","Royal Park Station/Poplar Rd (Parkville)",-37.780615,144.950694
+"Bus Stop","Royal Melb Hosp Royal Park/Poplar Rd (Parkville)",-37.779093,144.946569
+"Bus Stop","Parkville Ave/Garrard St (Parkville)",-37.778948,144.94085
+"Bus Stop","Auckland Lane/Cade Way (Parkville)",-37.778416,144.939287
+"Bus Stop","Mercy Health Aged Care/William St (Parkville)",-37.77617,144.939678
+"Bus Stop","Melrose St/Canning St (North Melbourne)",-37.795613,144.940989
+"Bus Stop","Dryburgh St/Shiel St (North Melbourne)",-37.797802,144.944063
+"Bus Stop","Abbotsford St/Haines St (North Melbourne)",-37.798294,144.945923
+"Bus Stop","Curzon St/Haines St (North Melbourne)",-37.7986,144.948459
+"Bus Stop","Morrah St/Royal Pde (Parkville)",-37.795529,144.95789
+"Bus Stop","The Avenue/Royal Pde (Parkville)",-37.791823,144.958322
+"Bus Stop","Trinity College/Royal Pde (Parkville)",-37.795778,144.958236
+"Bus Stop","Boundary Rd/Canning St (North Melbourne)",-37.79551,144.939243
+"Bus Stop","Melrose St/Canning St (North Melbourne)",-37.795817,144.941302
+"Bus Stop","Dryburgh St/Haines St (North Melbourne)",-37.79837,144.944593
+"Bus Stop","Pitt St/Rathdowne St (Carlton)",-37.79588,144.970895
+"Bus Stop","College Cres/Royal Pde (Parkville)",-37.792011,144.958748
+"Bus Stop","Rathdowne St/Elgin St (Carlton)",-37.797326,144.970106
+"Bus Stop","Elgin St/Lygon St (Carlton)",-37.797326,144.967528
+"Bus Stop","Kay St/Rathdowne St (Carlton)",-37.794977,144.970807
+"Bus Stop","Alexandra Ave/Punt Rd (South Yarra)",-37.830864,144.987764
+"Bus Stop","Moubray St/Punt Rd (South Yarra)",-37.848723,144.984426
+"Bus Stop","Alfred Hospital/Punt Rd (South Yarra)",-37.846404,144.984774
+"Bus Stop","Pasley St South/Punt Rd (South Yarra)",-37.843395,144.98539
+"Bus Stop","Lang St/Punt Rd (South Yarra)",-37.841105,144.985838
+"Bus Stop","Toorak Rd/Punt Rd (South Yarra)",-37.838681,144.986359
+"Bus Stop","Tivoli Pl/Punt Rd (South Yarra)",-37.836552,144.986803
+"Bus Stop","Witchwood Cl/Punt Rd (South Yarra)",-37.833769,144.987401
+"Bus Stop","Swan St/Punt Rd (Melbourne City)",-37.824778,144.9886
+"Bus Stop","Rowena Pde/Punt Rd (Richmond)",-37.821039,144.989201
+"Bus Stop","Anderson St/Alexandra Ave (South Yarra)",-37.82839,144.985355
+"Bus Stop","Melbourne Girls Grammar/Anderson St (South Yarra)",-37.832164,144.984184
+"Bus Stop","Domain Rd/Birdwood Ave (South Yarra)",-37.833812,144.982571
+"Bus Stop","Domain Rd/Birdwood Ave (South Yarra)",-37.833756,144.982425
+"Bus Stop","Melbourne Girls Grammar/Anderson St (South Yarra)",-37.831317,144.984207
+"Bus Stop","Wesley College/Moubray St (Melbourne City)",-37.847707,144.980374
+"Bus Stop","Punt Rd/Commercial Rd (South Yarra)",-37.845724,144.984565
+"Bus Stop","Alfred Hospital/Commercial Rd (Prahran)",-37.845272,144.981327
+"Bus Stop","Epsom Rd/Smithfield Rd (Kensington)",-37.789537,144.922387
+"Bus Stop","Gatehouse Dr/Smithfield Rd (Kensington)",-37.791337,144.919702
+"Bus Stop","Kensington Rd/Dynon Rd (West Melbourne)",-37.801363,144.914412
+"Bus Stop","330 Dynon Rd (West Melbourne)",-37.801928,144.919314
+"Bus Stop","Freight Terminal/Dynon Rd (West Melbourne)",-37.802508,144.924625
+"Bus Stop","Lloyd St/Dynon Rd (West Melbourne)",-37.802853,144.927829
+"Bus Stop","Dynon Rd/Kensington Rd (West Melbourne)",-37.800504,144.916765
+"Bus Stop","Opp 156-174 Kensington Rd (West Melbourne)",-37.799585,144.918324
+"Bus Stop","Childers St/Kensington Rd (Kensington)",-37.798273,144.920598
+"Bus Stop","Mercantile Pde/Kensington Rd (Kensington)",-37.797223,144.922376
+"Bus Stop","Epsom Rd/Smithfield Rd (Flemington)",-37.789364,144.922324
+"Bus Stop","Gatehouse Dr/Smithfield Rd (Kensington)",-37.790804,144.920149
+"Bus Stop","Dynon Rd/Kensington Rd (West Melbourne)",-37.800376,144.916689
+"Bus Stop","156 Kensington Rd (West Melbourne)",-37.798978,144.91917
+"Bus Stop","Hobsons Rd/Kensington Rd (Kensington)",-37.798126,144.920409
+"Bus Stop","Mercantile Pde/Kensington Rd (Kensington)",-37.797062,144.922438
+"Bus Stop","Devon St/Kensington Rd (Kensington)",-37.796404,144.923433
+"Bus Stop","Cairncross Lane/Kensington Rd (Kensington)",-37.795603,144.925
+"Bus Stop","Derby St/Kensington Rd (Kensington)",-37.794815,144.926362
+"Bus Stop","Kensington Station/Macaulay Rd (Kensington)",-37.794356,144.929963
+"Bus Stop","Albermarle St/Macaulay Rd (Kensington)",-37.794812,144.933857
+"Bus Stop","Macaulay Station/Macaulay Rd (North Melbourne)",-37.795093,144.936541
+"Bus Stop","Sims St/Dynon Rd (West Melbourne)",-37.801521,144.91367
+"Bus Stop","Altona St/Kensington Rd (Kensington)",-37.79621,144.924188
+"Bus Stop","Derby St/Kensington Rd (Kensington)",-37.795205,144.925976
+"Bus Stop","Kensington Station/Macaulay Rd (Kensington)",-37.79442,144.929519
+"Bus Stop","Albermarle St/Macaulay Rd (Kensington)",-37.794928,144.933797
+"Bus Stop","Macaulay Station/Macaulay Rd (North Melbourne)",-37.795197,144.936288
+"Bus Stop","Opp 330 Dynon Rd (West Melbourne)",-37.802148,144.92008
+"Bus Stop","Flemington Racecourse/Fisher Pde (Flemington)",-37.78944,144.903687
+"Bus Stop","Melbourne University/Royal Pde (Parkville)",-37.79843,144.957856
+"Bus Stop","Nicholson St/Elgin St (Fitzroy)",-37.797984,144.974313
+"Bus Stop","Rathdowne St/Elgin St (Carlton)",-37.797619,144.970927
+"Bus Stop","Victoria St/Rathdowne St (Carlton)",-37.806851,144.969016
+"Bus Stop","Flinders Lane/Queen St (Melbourne City)",-37.818093,144.962006
+"Bus Stop","Flinders Lane/Queen St (Melbourne City)",-37.817685,144.961824
+"Bus Stop","Collins St/Queen St (Melbourne City)",-37.816648,144.961296
+"Bus Stop","Little Collins St/Queen St (Melbourne City)",-37.816176,144.961104
+"Bus Stop","Bourke St/Queen St (Melbourne City)",-37.815268,144.960698
+"Bus Stop","Bourke St/Queen St (Melbourne City)",-37.814532,144.960366
+"Bus Stop","Bourke St/Queen St (Melbourne City)",-37.814468,144.960322
+"Bus Stop","Lonsdale St/Queen St (Melbourne City)",-37.813369,144.95983
+"Bus Stop","La Trobe St/Queen St (Melbourne City)",-37.811698,144.959069
+"Bus Stop","Queen Victoria Market/Franklin St (Melbourne City)",-37.809494,144.956188
+"Bus Stop","Queen Victoria Market/Peel St (Melbourne City)",-37.80933,144.955534
+"Bus Stop","William St/A'Beckett St (Melbourne City)",-37.810488,144.956331
+"Bus Stop","La Trobe St/Queen St (Melbourne City)",-37.810604,144.95885
+"Bus Stop","Lonsdale St/Queen St (Melbourne City)",-37.812548,144.959727
+"Bus Stop","Little Bourke St/Queen St (Melbourne City)",-37.813792,144.960295
+"Bus Stop","Bourke St/Queen St (Melbourne City)",-37.814628,144.960681
+"Bus Stop","Little Collins St/Queen St (Melbourne City)",-37.815682,144.961175
+"Bus Stop","Casino East/Queens Bridge St (Southbank)",-37.82209,144.961214
+"Bus Stop","Kavanagh St/Southbank Bvd (Southbank)",-37.823097,144.965776
+"Bus Stop","Victorian College of the Arts/Southbank Bvd (Southbank)",-37.823707,144.968248
+"Bus Stop","City Rd/Southbank Bvd (Southbank)",-37.823122,144.964651
+"Bus Stop","Casino East/Queens Bridge St (Southbank)",-37.821694,144.961259
+"Bus Stop","Old Melbourne Gaol/Russell St (Melbourne City)",-37.807495,144.965637
+"Bus Stop","Jeffcott St/Spencer St (West Melbourne)",-37.811891,144.950999
+"Bus Stop","Dudley St/Spencer St (West Melbourne)",-37.809809,144.949932
+"Bus Stop","Dudley St/Spencer St (West Melbourne)",-37.810496,144.950049
+"Bus Stop","Jeffcott St/Spencer St (West Melbourne)",-37.811814,144.950683
+"Bus Stop","Spencer St/Dudley St (West Melbourne)",-37.809992,144.950597
+"Bus Stop","King St/Dudley St (West Melbourne)",-37.809296,144.952036
+"Bus Stop","William St/Dudley St (West Melbourne)",-37.808701,144.954631
+"Bus Stop","Banana Alley Vaults/Flinders St (Melbourne City)",-37.819156,144.961943
+"Bus Stop","Market St/Flinders St (Melbourne City)",-37.818973,144.9618
+"Bus Stop","Little Lonsdale St/Russell St (Melbourne City)",-37.809574,144.966488
+"Bus Stop","Trades Hall/Lygon St (Carlton)",-37.806646,144.966046
+"Bus Stop","La Trobe St/Russell St (Melbourne City)",-37.808579,144.966311
+"Bus Stop","Little Lonsdale St/Exhibition St (Melbourne City)",-37.808841,144.968962
+"Bus Stop","Spring St/Lonsdale St (Melbourne City)",-37.80972,144.971323
+"Bus Stop","Exhibition St/Lonsdale St (Melbourne City)",-37.810444,144.968861
+"Bus Stop","Melbourne Central/Lonsdale St (Melbourne City)",-37.811567,144.965025
+"Bus Stop","Supreme Court/Lonsdale St (Melbourne City)",-37.813898,144.957021
+"Bus Stop","Lonsdale St/Spencer St (Melbourne City)",-37.814821,144.952077
+"Bus Stop","Spencer St/Lonsdale St (Melbourne City)",-37.814201,144.955297
+"Bus Stop","King St/Lonsdale St (Melbourne City)",-37.814288,144.955124
+"Bus Stop","County Court/Lonsdale St (Melbourne City)",-37.813453,144.957874
+"Bus Stop","Hardware Lane/Lonsdale St (Melbourne City)",-37.812636,144.960645
+"Bus Stop","Swanston St/Lonsdale St (Melbourne City)",-37.81131,144.965282
+"Bus Stop","Tattersalls Lane/Lonsdale St (Melbourne City)",-37.811327,144.965202
+"Bus Stop","Exhibition St/Lonsdale St (Melbourne City)",-37.809828,144.970252
+"Bus Stop","Stanley St/Spencer St (West Melbourne)",-37.808227,144.948613
+"Bus Stop","Hawke St/Spencer St (West Melbourne)",-37.80686,144.94672
+"Bus Stop","Abbotsford St/Spencer St (West Melbourne)",-37.805903,144.944554
+"Bus Stop","Dryburgh St/Spencer St (West Melbourne)",-37.80565,144.943437
+"Bus Stop","Hawke St/Spencer St (West Melbourne)",-37.807393,144.947307
+"Bus Stop","Flinders St/Queens Bridge St (Melbourne City)",-37.819456,144.96106
+"Bus Stop","Stanley St/Spencer St (West Melbourne)",-37.808671,144.948737
+"Bus Stop","Southern Cross Coach Terminal/Spencer St (Melbourne City)",-37.815084,144.951149
+"Bus Stop","Argyle Square/Lygon St (Carlton)",-37.802512,144.966727
+"Bus Stop","Radcliffe St/Dynon Rd (West Melbourne)",-37.803557,144.932023
+"Bus Stop","Queensberry St/Lygon St (Carlton)",-37.80457,144.966376
+"Bus Stop","Royal Melbourne Hospital/Royal Pde (Parkville)",-37.79774,144.957602
+"Bus Stop","Collins Square/Batmans Hill Dr (Docklands)",-37.821157,144.949027
+"Bus Stop","Batmans Hill Dr/Collins St (Docklands)",-37.820438,144.949115
+"Bus Stop","Melbourne Observatory/Birdwood Ave (Melbourne City)",-37.829848,144.974215
+"Bus Stop","Little Lonsdale St/Queen St (Melbourne City)",-37.811789,144.959135
+"Bus Stop","Shrine of Remembrance/Birdwood Ave (Melbourne City)",-37.829697,144.974321
+"Bus Stop","Melbourne University/Pelham St (Carlton)",-37.801993,144.959087
+"Bus Stop","Elizabeth St/Lonsdale St (Melbourne City)",-37.812511,144.961784
+"Bus Stop","King St/Lonsdale St (Melbourne City)",-37.814255,144.955807
+"Bus Stop","Royal Australasian College of Surgeons/Victoria Pde (East Melbourne)",-37.808092,144.972538
+"Bus Stop","Dudley St/Footscray Rd (West Melbourne)",-37.81226,144.942663
+"Bus Stop","Harcourt St/Courtney St (North Melbourne)",-37.799299,144.950802
+"Bus Stop","Courtney St/Wreckyn St (North Melbourne)",-37.800937,144.953301
+"Bus Stop","Royal Melbourne Hospital/Grattan St (Parkville)",-37.799438,144.955738
+"Bus Stop","Cardigan St/Grattan St (Carlton)",-37.800466,144.965114
+"Bus Stop","Lygon St/Grattan St (Carlton)",-37.800608,144.966552
+"Bus Stop","Southern Cross Station/Collins St (Melbourne City)",-37.819325,144.953509
+"Bus Stop","Southern Cross Station/Collins St (Melbourne City)",-37.819179,144.95341
+"Bus Stop","A'Beckett St/Queen St (Melbourne City)",-37.809659,144.95841
+"Bus Stop","Melbourne University/Pelham St (Carlton)",-37.802042,144.960346
+"Bus Stop","Melbourne University/Grattan St (Carlton)",-37.800116,144.96208
+"Bus Stop","Royal Melbourne Hospital/Flemington Rd (North Melbourne)",-37.800179,144.955332
+"Bus Stop","Royal Melbourne Hospital/Grattan St (Parkville)",-37.799409,144.955626
+"Bus Stop","Melbourne University/Grattan St (Parkville)",-37.800082,144.961661
+"Bus Stop","Moonee Ponds Creek/Footscray Rd (West Melbourne)",-37.810125,144.937031
+"Bus Stop","Footscray Rd (West Melbourne)",-37.807762,144.920037
+"Bus Stop","Moonee Ponds Creek/386 Footscray Rd (West Melbourne)",-37.809843,144.937414
+"Bus Stop","North Melbourne Station/Dryburgh St (West Melbourne)",-37.806807,144.942644
+"Bus Stop","Lincoln Square/Bouverie St (Carlton)",-37.801986,144.962335
+"Bus Stop","Abbotsford St/Haines St (North Melbourne)",-37.798607,144.946789
+"Bus Stop","Curzon St/Haines St (North Melbourne)",-37.798883,144.949212
+"Bus Stop","O'Shanassy St/Errol St (North Melbourne)",-37.799899,144.950104
+"Bus Stop","Dowling Pl/Wreckyn St (North Melbourne)",-37.801047,144.953423
+"Bus Stop","Swanston St/Grattan St (Carlton)",-37.800573,144.964532
+"Bus Stop","Lygon St/Grattan St (Carlton)",-37.800769,144.966514
+"Bus Stop","Rathdowne St/Grattan St (Carlton)",-37.801089,144.969379
+"Bus Stop","Westside Ave/Lorimer St (Port Melbourne)",-37.820874,144.919021
+"Bus Stop","715 Lorimer St (Port Melbourne)",-37.820678,144.924741
+"Bus Stop","Hall St/Lorimer St (Port Melbourne)",-37.820927,144.927131
+"Bus Stop","Graham St/Lorimer St (Port Melbourne)",-37.821479,144.930342
+"Bus Stop","Ingles St/Lorimer St (Port Melbourne)",-37.821931,144.932465
+"Bus Stop","Rogers St/Lorimer St (Port Melbourne)",-37.822729,144.936373
+"Bus Stop","Hartley St/Lorimer St (Southbank)",-37.823685,144.941027
+"Bus Stop","West Gate Fwy/Lorimer St (Southbank)",-37.825071,144.945056
+"Bus Stop","Lorimer St/Salmon St (Port Melbourne)",-37.821421,144.920891
+"Bus Stop","Turner St/Salmon St (Port Melbourne)",-37.823732,144.921622
+"Bus Stop","Phillip Ct/Salmon St (Port Melbourne)",-37.825888,144.9223
+"Bus Stop","Turner St/Salmon St (Port Melbourne)",-37.823738,144.921451
+"Bus Stop","Lorimer St/Salmon St (Port Melbourne)",-37.822405,144.921023
+"Bus Stop","Clarendon St/City Rd (Southbank)",-37.828235,144.957512
+"Bus Stop","West Gate Fwy/Lorimer St (Southbank)",-37.825308,144.94522
+"Bus Stop","Hartley St/Lorimer St (Southbank)",-37.823559,144.939463
+"Bus Stop","Rogers St/Lorimer St (Port Melbourne)",-37.823121,144.937101
+"Bus Stop","Ingles St/Lorimer St (Port Melbourne)",-37.82222,144.933002
+"Bus Stop","Graham St/Lorimer St (Port Melbourne)",-37.821562,144.929942
+"Bus Stop","Hall St/Lorimer St (Port Melbourne)",-37.820956,144.92571
+"Bus Stop","Salmon St/Lorimer St (Port Melbourne)",-37.82089,144.921474
+"Bus Stop","Westside Ave/Lorimer St (Port Melbourne)",-37.821109,144.91856
+"Bus Stop","City Rd/Queens Bridge St (Southbank)",-37.825552,144.960244
+"Bus Stop","Exhibition Building/Rathdowne St (Carlton)",-37.804299,144.969472
+"Bus Stop","Carlton Gardens/Rathdowne St (Carlton)",-37.801478,144.969947
+"Bus Stop","Elgin St/Rathdowne St (Carlton)",-37.797901,144.970534
+"Bus Stop","Freight Terminal/Dynon Rd (West Melbourne)",-37.802706,144.925142
+"Bus Stop","Lloyd St/Dynon Rd (West Melbourne)",-37.80324,144.929886
+"Bus Stop","Radcliffe St/Dynon Rd (West Melbourne)",-37.803835,144.932424
+"Bus Stop","Carlton Gardens/Victoria St (Carlton)",-37.807483,144.97118
+"Bus Stop","Melbourne Central/Lonsdale St (Melbourne City)",-37.811598,144.964195
+"Bus Stop","Collins St/Queen St (Melbourne City)",-37.816545,144.961571
+"Bus Stop","Clarendon St/City Rd (Southbank)",-37.82808,144.957425
+"Bus Stop","City Rd/Queens Bridge St (Southbank)",-37.82602,144.959743
+"Bus Stop","Victoria St/Rathdowne St (Carlton)",-37.806954,144.968752
+"Bus Stop","Exhibition Building/Rathdowne St (Carlton)",-37.804815,144.969106
+"Bus Stop","Grattan St/Lygon St (Carlton)",-37.801107,144.966755
+"Bus Stop","Argyle Square/Lygon St (Carlton)",-37.802626,144.966508
+"Bus Stop","Queensberry St/Lygon St (Carlton)",-37.805204,144.96604
+"Bus Stop","Adderley St/Dudley St (West Melbourne)",-37.810837,144.948404
+"Bus Stop","Festival Hall/Dudley St (West Melbourne)",-37.811035,144.947354
+"Bus Stop","Waterfront City/Footscray Rd (West Melbourne)",-37.811836,144.941095
+"Bus Stop","North Melbourne Station/Dryburgh St (West Melbourne)",-37.806943,144.942651
+"Bus Stop","Queen St/Lonsdale St (Melbourne City)",-37.813269,144.959219
+"Bus Stop","Melbourne University/Swanston St (Carlton)",-37.800121,144.963908
+"Bus Stop","Nicholson St/Elgin St (Carlton)",-37.797756,144.974138
+"Bus Stop","Faraday St/Lygon St (Carlton)",-37.798969,144.967143
+"Bus Stop","Melbourne Museum/Rathdowne St (Carlton)",-37.8023,144.96955
+"Bus Stop","Grattan St/Rathdowne St (Carlton)",-37.800692,144.969844
+"Bus Stop","Elgin St/Rathdowne St (Carlton)",-37.797762,144.970333
+"Bus Stop","A'Beckett St/Queen St (Melbourne City)",-37.810236,144.958405
+"Bus Stop","Todd Rd/Wharf Rd (Port Melbourne)",-37.827931,144.908893
+"Bus Stop","Fishermans Bend/Wharf Rd (Port Melbourne)",-37.82907,144.907065
+"Bus Stop","Todd Rd/Wharf Rd (Port Melbourne)",-37.827822,144.908828
+"Bus Stop","Wirraway Dr/Todd Rd (Port Melbourne)",-37.826247,144.911508
+"Bus Stop","Sabre Dr/Lorimer St (Port Melbourne)",-37.824674,144.906633
+"Bus Stop","Canberra St/Lorimer St (Port Melbourne)",-37.827327,144.90282
+"Bus Stop","Sardine St/Lorimer St (Port Melbourne)",-37.829531,144.901076
+"Bus Stop","Sardine St/Lorimer St (Port Melbourne)",-37.829981,144.900529
+"Bus Stop","Canberra St/Lorimer St (Port Melbourne)",-37.82695,144.902876
+"Bus Stop","Sabre Dr/Lorimer St (Port Melbourne)",-37.824519,144.906535
+"Bus Stop","DST Group/Lorimer St (Port Melbourne)",-37.821874,144.913403
+"Bus Stop","Bayside Ave/Lorimer St (Port Melbourne)",-37.821269,144.916397
+"Bus Stop","Bayside Ave/Lorimer St (Port Melbourne)",-37.821455,144.916187
+"Bus Stop","DST Group/Lorimer St (Port Melbourne)",-37.82207,144.913273
+"Bus Stop","Wirraway Dr/Todd Rd (Port Melbourne)",-37.825411,144.9116
+"Bus Stop","Perce White Reserve/Todd Rd (Port Melbourne)",-37.838189,144.915148
+"Tram Stop","112-Lygon St/Elgin St (Carlton)",-37.797113,144.967159
+"Tram Stop","113-Lytton St/Lygon St (Carlton)",-37.794127,144.968025
+"Tram Stop","114-Princes St/Lygon St (Carlton North)",-37.792689,144.968269
+"Tram Stop","115-Melbourne Cemetery/Lygon St (Carlton North)",-37.78958,144.968797
+"Tram Stop","116-Fenwick St/Lygon St (Carlton North)",-37.78737,144.969186
+"Tram Stop","26-Alfred Hospital/Commercial Rd (South Yarra)",-37.845278,144.982225
+"Tram Stop","27-Punt Rd/Commercial Rd (South Yarra)",-37.84563,144.984863
+"Tram Stop","32-Sandown Rd/Epsom Rd (Ascot Vale)",-37.782668,144.916675
+"Tram Stop","31-Racing Victoria/400 Epsom Rd (Flemington)",-37.784425,144.918204
+"Tram Stop","30-Flemington Racecourse/Epsom Rd (Flemington)",-37.785913,144.919786
+"Tram Stop","29-Flemington Racecourse/Racecourse Rd (Flemington)",-37.787446,144.921889
+"Tram Stop","28-Smithfield Rd/Racecourse Rd (Flemington)",-37.787741,144.925345
+"Tram Stop","26-Newmarket Plaza/Racecourse Rd (Kensington)",-37.788074,144.92839
+"Tram Stop","24-Collett St/Racecourse Rd (Kensington)",-37.788507,144.933522
+"Tram Stop","23-Stubbs St/Racecourse Rd (Flemington)",-37.788749,144.93548
+"Tram Stop","22-Boundary Rd/Racecourse Rd (North Melbourne)",-37.789209,144.940145
+"Tram Stop","19-Abbotsford St Interchange/Abbotsford St (North Melbourne)",-37.793729,144.947163
+"Tram Stop","18-Erskine St/Abbotsford St (North Melbourne)",-37.795246,144.946803
+"Tram Stop","17-Canning St/Abbotsford St (North Melbourne)",-37.796719,144.946535
+"Tram Stop","16-Haines St/Abbotsford St (North Melbourne)",-37.797968,144.946319
+"Tram Stop","15-Arden St/Abbotsford St (North Melbourne)",-37.800672,144.945835
+"Tram Stop","14-Abbotsford St/Queensberry St (North Melbourne)",-37.802663,144.945802
+"Tram Stop","23-Royal Park/Royal Park (Parkville)",-37.791414,144.949294
+"Tram Stop","24-Elliott Ave/Royal Park (Parkville)",-37.787878,144.949619
+"Tram Stop","25-State Netball Hockey Centre/Royal Park (Parkville)",-37.784383,144.94867
+"Tram Stop","26-Melbourne Zoo/Royal Park (Parkville)",-37.782375,144.949282
+"Tram Stop","27-Royal Park Station/Royal Park (Parkville)",-37.780872,144.950925
+"Tram Stop","28-Park St/Royal Park (Parkville)",-37.776917,144.94949
+"Tram Stop","124-Walsh St/Toorak Rd (South Yarra)",-37.83819,144.984565
+"Tram Stop","28-Punt Rd/High St (Prahran)",-37.850564,144.984047
+"Tram Stop","18-Princes Park/Royal Pde (Parkville)",-37.779379,144.959936
+"Tram Stop","17-Ievers St/Royal Pde (Parkville)",-37.781888,144.95964
+"Tram Stop","16-Visy Park/Royal Pde (Parkville)",-37.784856,144.959274
+"Tram Stop","15-Leonard St/Royal Pde (Parkville)",-37.787931,144.958894
+"Tram Stop","14-Macarthur Rd/Royal Pde (Parkville)",-37.790017,144.958644
+"Tram Stop","13-Gatehouse St/Royal Pde (Parkville)",-37.792679,144.95831
+"Tram Stop","12-Morrah St/Royal Pde (Parkville)",-37.795656,144.957944
+"Tram Stop","18-Princes Park/Royal Pde (Parkville)",-37.779383,144.960152
+"Tram Stop","11-University of Melbourne/Royal Pde (Parkville)",-37.798273,144.957656
+"Tram Stop","17-Ievers St/Royal Pde (Parkville)",-37.781684,144.959838
+"Tram Stop","16-Walker St/Royal Pde (Parkville)",-37.784589,144.959509
+"Tram Stop","15-Leonard St/Royal Pde (Parkville)",-37.787674,144.959129
+"Tram Stop","14-Cemetery Road West/Royal Pde (Parkville)",-37.789715,144.958879
+"Tram Stop","13-Gatehouse St/Royal Pde (Parkville)",-37.792422,144.958544
+"Tram Stop","12-Morrah St/Royal Pde (Parkville)",-37.795561,144.958173
+"Tram Stop","11-University of Melbourne/Royal Pde (Parkville)",-37.798105,144.957854
+"Tram Stop","7-Russell St/Bourke St (Melbourne City)",-37.812769,144.968354
+"Tram Stop","6-Swanston St/Bourke St (Melbourne City)",-37.813484,144.965904
+"Tram Stop","5-Elizabeth St/Bourke St (Melbourne City)",-37.814217,144.96351
+"Tram Stop","4-Queen St/Bourke St (Melbourne City)",-37.815253,144.959835
+"Tram Stop","3-William St/Bourke St (Melbourne City)",-37.815882,144.957625
+"Tram Stop","1-Spencer St/Bourke St (Melbourne City)",-37.817063,144.953514
+"Tram Stop","1-Spencer St/Bourke St (Melbourne City)",-37.816846,144.953997
+"Tram Stop","1-Flinders Street Railway Station/Elizabeth St (Melbourne City)",-37.817717,144.964765
+"Tram Stop","2-Collins St/Elizabeth St (Melbourne City)",-37.815428,144.963669
+"Tram Stop","3-Bourke Street Mall/Elizabeth St (Melbourne City)",-37.813447,144.962758
+"Tram Stop","5-Melbourne Central Station/Elizabeth St (Melbourne City)",-37.810558,144.961429
+"Tram Stop","7-Queen Victoria Market/Elizabeth St (Melbourne City)",-37.806561,144.959574
+"Tram Stop","8-Peel St/Victoria St (Melbourne City)",-37.805935,144.956218
+"Tram Stop","9-William St/Victoria St (Melbourne City)",-37.805688,144.953908
+"Tram Stop","10-Chetwynd St/Victoria St (Melbourne City)",-37.805517,144.952391
+"Tram Stop","11-Errol St/Victoria St (Melbourne City)",-37.805196,144.949446
+"Tram Stop","11-Victoria St/Errol St (North Melbourne)",-37.804959,144.949339
+"Tram Stop","10-Chetwynd St/Victoria St (Melbourne City)",-37.805403,144.95203
+"Tram Stop","9-Howard St/Victoria St (Melbourne City)",-37.805564,144.953502
+"Tram Stop","8-Peel St/Victoria St (Melbourne City)",-37.80581,144.955744
+"Tram Stop","9-Pelham St/Elizabeth St (Melbourne City)",-37.801947,144.957464
+"Tram Stop","10-Royal Melbourne Hospital/Royal Pde (Melbourne City)",-37.799901,144.957441
+"Tram Stop","10-Royal Melbourne Hospital/Royal Pde (Parkville)",-37.79958,144.957665
+"Tram Stop","9-Pelham St/Elizabeth St (Melbourne City)",-37.802148,144.957663
+"Tram Stop","7-Queen Victoria Market/Elizabeth St (Melbourne City)",-37.80689,144.959849
+"Tram Stop","5-Melbourne Central Station/Elizabeth St (Melbourne City)",-37.811105,144.961778
+"Tram Stop","3-Bourke Street Mall/Elizabeth St (Melbourne City)",-37.814039,144.963128
+"Tram Stop","2-Collins St/Elizabeth St (Melbourne City)",-37.815929,144.963996
+"Tram Stop","1-Flinders Street Railway Station/Elizabeth St (Melbourne City)",-37.817899,144.96484
+"Tram Stop","10-Albert St/Nicholson St (Fitzroy)",-37.809676,144.972949
+"Tram Stop","9-Spring St/Bourke St (Melbourne City)",-37.811544,144.972579
+"Tram Stop","3-William St/Bourke St (Melbourne City)",-37.815706,144.957914
+"Tram Stop","4-Queen St/Bourke St (Melbourne City)",-37.815122,144.960054
+"Tram Stop","5-Elizabeth St/Bourke St (Melbourne City)",-37.814031,144.963685
+"Tram Stop","6-Swanston St/Bourke St (Melbourne City)",-37.813266,144.966376
+"Tram Stop","7-Russell St/Bourke St (Melbourne City)",-37.812468,144.969169
+"Tram Stop","9-Spring St/Bourke St (Melbourne City)",-37.811523,144.97241
+"Tram Stop","10-Albert St/Nicholson St (East Melbourne)",-37.809423,144.972899
+"Tram Stop","11-Melbourne Museum/Nicholson St (Fitzroy)",-37.805676,144.973546
+"Tram Stop","12-St Vincents Plaza/Victoria Pde (East Melbourne)",-37.80828,144.976133
+"Tram Stop","11-Albert St/Gisborne St (East Melbourne)",-37.80939,144.975728
+"Tram Stop","10-Parliament Railway Station/Macarthur St (East Melbourne)",-37.812379,144.974488
+"Tram Stop","8-Spring St/Collins St (Melbourne City)",-37.813557,144.973285
+"Tram Stop","6-Melbourne Town Hall/Collins St (Melbourne City)",-37.815674,144.965957
+"Tram Stop","5-Elizabeth St/Collins St (Melbourne City)",-37.816423,144.963404
+"Tram Stop","3-William St/Collins St (Melbourne City)",-37.817607,144.959429
+"Tram Stop","1-Spencer St/Collins St (Melbourne City)",-37.818847,144.955055
+"Tram Stop","1-Spencer St/Collins St (Melbourne City)",-37.818741,144.955183
+"Tram Stop","3-William St/Collins St (Melbourne City)",-37.817372,144.959913
+"Tram Stop","5-Elizabeth St/Collins St (Melbourne City)",-37.816206,144.963864
+"Tram Stop","6-Melbourne Town Hall/Collins St (Melbourne City)",-37.815518,144.96628
+"Tram Stop","8-Spring St/Collins St (Melbourne City)",-37.813416,144.973482
+"Tram Stop","10-Parliament Railway Station/Macarthur St (East Melbourne)",-37.81217,144.974368
+"Tram Stop","22-Boundary Rd/Racecourse Rd (North Melbourne)",-37.789131,144.939852
+"Tram Stop","20-Melrose St/Flemington Rd (North Melbourne)",-37.790394,144.943485
+"Tram Stop","19-Abbotsford St Interchange/Abbotsford St (North Melbourne)",-37.794106,144.947096
+"Tram Stop","11-Albert St/Gisborne St (East Melbourne)",-37.809695,144.975606
+"Tram Stop","10-Nicholson St/Victoria Pde (East Melbourne)",-37.808019,144.973562
+"Tram Stop","9-La Trobe St/Victoria St (Melbourne City)",-37.807614,144.970972
+"Tram Stop","8-Exhibition St/La Trobe St (Melbourne City)",-37.808103,144.969027
+"Tram Stop","6-Swanston St/La Trobe St (Melbourne City)",-37.80955,144.964081
+"Tram Stop","5-Elizabeth St/La Trobe St (Melbourne City)",-37.810291,144.961596
+"Tram Stop","4-Queen St/La Trobe St (Melbourne City)",-37.811005,144.959122
+"Tram Stop","3-William St/La Trobe St (Melbourne City)",-37.811711,144.956718
+"Tram Stop","1-Spencer St/La Trobe St (Melbourne City)",-37.813112,144.95176
+"Tram Stop","D10-New Quay Prom/Docklands Dr (Docklands)",-37.813781,144.940508
+"Tram Stop","D11-Waterfront City/Docklands Dr (Docklands)",-37.814345,144.938754
+"Tram Stop","D10-NewQuay Prom/Docklands Dr (Docklands)",-37.813312,144.941509
+"Tram Stop","D1-Stadium Precinct/La Trobe St (Docklands)",-37.814578,144.946404
+"Tram Stop","119-Spencer St/La Trobe St (Melbourne City)",-37.813211,144.951201
+"Tram Stop","2-King St/La Trobe St (Melbourne City)",-37.81248,144.953732
+"Tram Stop","3-William St/La Trobe St (Melbourne City)",-37.811791,144.956136
+"Tram Stop","4-Queen St/La Trobe St (Melbourne City)",-37.811061,144.958712
+"Tram Stop","5-Elizabeth St/La Trobe St (Melbourne City)",-37.810355,144.961117
+"Tram Stop","6-Swanston St/La Trobe St (Melbourne City)",-37.809647,144.963465
+"Tram Stop","7-Russell St/La Trobe St (Melbourne City)",-37.808909,144.966098
+"Tram Stop","8-Exhibition St/La Trobe St (Melbourne City)",-37.808185,144.968537
+"Tram Stop","9-Victoria St/La Trobe St (Melbourne City)",-37.807656,144.970266
+"Tram Stop","10-Nicholson St/Victoria Pde (Carlton)",-37.807836,144.97284
+"Tram Stop","D2-Central Pier/Harbour Esp (Docklands)",-37.814705,144.944901
+"Tram Stop","D3-Stadium Precinct/Harbour Esp (Docklands)",-37.817819,144.946246
+"Tram Stop","D4-Docklands Park/Harbour Esp (Docklands)",-37.821466,144.94761
+"Tram Stop","D5-South Wharf/Wurundjeri Way (Docklands)",-37.821835,144.951213
+"Tram Stop","D6-Flinders Street West/Flinders St (Docklands)",-37.821471,144.953608
+"Tram Stop","18-Chapman St/Abbotsford St (North Melbourne)",-37.79496,144.946947
+"Tram Stop","17-Molesworth St/Abbotsford St (North Melbourne)",-37.796307,144.946694
+"Tram Stop","16-Haines St/Abbotsford St (North Melbourne)",-37.798284,144.946344
+"Tram Stop","15-Arden St/Abbotsford St (North Melbourne)",-37.800997,144.945849
+"Tram Stop","14-Queensberry St/Abbotsford St (North Melbourne)",-37.80239,144.945628
+"Tram Stop","23-Royal Park/Royal Park (Parkville)",-37.79138,144.949397
+"Tram Stop","24-Elliott Ave/Royal Park (Parkville)",-37.788016,144.949751
+"Tram Stop","25-State Netball Hockey Centre/Royal Park (Parkville)",-37.784539,144.948848
+"Tram Stop","26-Melbourne Zoo/Royal Park (Parkville)",-37.782617,144.949219
+"Tram Stop","27-Royal Park Station/Royal Park (Parkville)",-37.780753,144.95136
+"Tram Stop","28-Park St/Royal Park (Parkville)",-37.777241,144.949969
+"Tram Stop","3-Market St/Flinders St (Melbourne City)",-37.819063,144.961797
+"Tram Stop","4-Elizabeth St/Flinders St (Melbourne City)",-37.818238,144.964626
+"Tram Stop","5-Swanston St/Flinders St (Melbourne City)",-37.81756,144.967132
+"Tram Stop","6-Russell St/Flinders St (Melbourne City)",-37.816564,144.9705
+"Tram Stop","8-Spring St/Flinders St (Melbourne City)",-37.815319,144.974612
+"Tram Stop","9-Lansdowne St/Wellington Pde (East Melbourne)",-37.815453,144.977164
+"Tram Stop","10-Jolimont Rd/Wellington Pde (East Melbourne)",-37.81575,144.979791
+"Tram Stop","11-Jolimont Station-MCG/Wellington Pde (East Melbourne)",-37.816341,144.984819
+"Tram Stop","13-Simpson St/Wellington Pde (East Melbourne)",-37.81654,144.986983
+"Tram Stop","14-Punt Rd/Wellington Pde (Melbourne City)",-37.817388,144.989675
+"Tram Stop","13-Simpson St/Wellington Pde (East Melbourne)",-37.816603,144.98697
+"Tram Stop","11-Jolimont Station-MCG/Wellington Pde (East Melbourne)",-37.816246,144.983992
+"Tram Stop","10-Jolimont Rd/Wellington Pde (East Melbourne)",-37.815769,144.979325
+"Tram Stop","9-Lansdowne St/Wellington Pde (Melbourne City)",-37.815471,144.976664
+"Tram Stop","8-Spring St/Flinders St (Melbourne City)",-37.815537,144.974174
+"Tram Stop","7B-Rod Laver Arena/MCG Gates 1-3 (Melbourne City)",-37.819587,144.97913
+"Tram Stop","7C-MCG Gates 4-7/John Cain Arena (Melbourne City)",-37.822384,144.98353
+"Tram Stop","7D-Olympic Boulevard (Melbourne City)",-37.824135,144.986857
+"Tram Stop","7D-Olympic Boulevard (Melbourne City)",-37.823827,144.986751
+"Tram Stop","7C-MCG Gates 4-7/John Cain Arena (Melbourne City)",-37.822137,144.982798
+"Tram Stop","7B-Rod Laver Arena/MCG Gates 1-3 (Melbourne City)",-37.819349,144.978421
+"Tram Stop","6-Russell St/Flinders St (Melbourne City)",-37.816657,144.970168
+"Tram Stop","5-Swanston St/Flinders St (Melbourne City)",-37.817756,144.966491
+"Tram Stop","4-Elizabeth St/Flinders St (Melbourne City)",-37.818412,144.96428
+"Tram Stop","3-Market St/Flinders St (Melbourne City)",-37.819306,144.961279
+"Tram Stop","D6-Victoria Police Centre/Flinders St (Southbank)",-37.821726,144.953215
+"Tram Stop","D5-South Wharf/Wurundjeri Way (Docklands)",-37.822001,144.950913
+"Tram Stop","D4-Docklands Park/Harbour Esp (Docklands)",-37.821725,144.947501
+"Tram Stop","D3-Stadium Precinct/Harbour Esp (Docklands)",-37.817463,144.94596
+"Tram Stop","D2-CentralPier/Harbour Esp (Docklands)",-37.814249,144.944584
+"Tram Stop","125-Clarendon St/Whiteman St (Southbank)",-37.825688,144.956684
+"Tram Stop","124A-Casino/MCEC/Clarendon St (Southbank)",-37.823289,144.956057
+"Tram Stop","124-Batman Park/Spencer St (Melbourne City)",-37.821554,144.955265
+"Tram Stop","122-Southern Cross Railway Station/Spencer St (Melbourne City)",-37.818767,144.954092
+"Tram Stop","120-Lonsdale St/Spencer St (Melbourne City)",-37.815313,144.952381
+"Tram Stop","119-La Trobe St/Spencer St (Melbourne City)",-37.813405,144.951502
+"Tram Stop","120-Lonsdale St/Spencer St (Melbourne City)",-37.81496,144.952311
+"Tram Stop","122-Southern Cross Railway Station/Spencer St (Melbourne City)",-37.818319,144.953718
+"Tram Stop","124-Batman Park/Spencer St (Melbourne City)",-37.821773,144.955406
+"Tram Stop","124A-Casino/MCEC/Clarendon St (Southbank)",-37.823591,144.95631
+"Tram Stop","5-Bourke St/William St (Melbourne City)",-37.815874,144.95825
+"Tram Stop","7-Flagstaff Railway Station/William St (Melbourne City)",-37.811996,144.956517
+"Tram Stop","8-Franklin St/William St (Melbourne City)",-37.809743,144.955454
+"Tram Stop","10-Victoria St/Peel St (West Melbourne)",-37.805391,144.956029
+"Tram Stop","10-Victoria St/Peel St (West Melbourne)",-37.805698,144.956077
+"Tram Stop","9-Queen Victoria Market/Peel St (North Melbourne)",-37.807442,144.955779
+"Tram Stop","9-Queen Victoria Market/39 Peel St (North Melbourne)",-37.807216,144.955751
+"Tram Stop","8-Franklin St/Peel St (Melbourne City)",-37.809428,144.955474
+"Tram Stop","7-Flagstaff Railway Station/William St (Melbourne City)",-37.812461,144.956799
+"Tram Stop","5-Bourke St/William St (Melbourne City)",-37.81544,144.95816
+"Tram Stop","4-Collins St/William St (Melbourne City)",-37.817457,144.959092
+"Tram Stop","1-Flinders St/Queens Bridge St (Melbourne City)",-37.819513,144.96124
+"Tram Stop","115-Casino/Southbank/Queens Bridge St (Southbank)",-37.822117,144.961225
+"Tram Stop","117-York St/Kings Way (South Melbourne)",-37.82961,144.964075
+"Tram Stop","118-Sturt St/Kings Way (Southbank)",-37.830536,144.965004
+"Tram Stop","20-Kings Way/Sturt St (Southbank)",-37.830091,144.965334
+"Tram Stop","19-Miles St/Sturt St (Southbank)",-37.828431,144.965755
+"Tram Stop","18-Grant St/Sturt St (Southbank)",-37.825779,144.966634
+"Tram Stop","17-Arts Precinct/Sturt St (Southbank)",-37.823816,144.967256
+"Tram Stop","17-Arts Precinct/Sturt St (Southbank)",-37.824094,144.96718
+"Tram Stop","18-Grant St/Sturt St (Southbank)",-37.825924,144.966664
+"Tram Stop","19-Miles St/Sturt St (Southbank)",-37.828184,144.966057
+"Tram Stop","20-Kings Way/Sturt St (Southbank)",-37.830119,144.96539
+"Tram Stop","116-City Rd/Kings Way (Southbank)",-37.82626,144.960577
+"Tram Stop","115-Casino East/Queens Bridge St (Southbank)",-37.821711,144.961225
+"Tram Stop","1-Flinders St/Queens Bridge St (Melbourne City)",-37.819429,144.961106
+"Tram Stop","2-Flinders Lane/Market St (Melbourne City)",-37.818539,144.960698
+"Tram Stop","3-William St/Flinders Lane (Melbourne City)",-37.81864,144.959776
+"Tram Stop","4-Collins St/William St (Melbourne City)",-37.817819,144.959173
+"Tram Stop","7-RMIT University/Swanston St (Melbourne City)",-37.807799,144.962868
+"Tram Stop","4-Queensberry St/Swanston St (Carlton)",-37.805135,144.963112
+"Tram Stop","3-Lincoln Square/Swanston St (Carlton)",-37.802629,144.963555
+"Tram Stop","1-Melbourne University/Swanston St (Carlton)",-37.798766,144.964241
+"Tram Stop","15-Murphy St/Flemington Rd (North Melbourne)",-37.797587,144.952394
+"Tram Stop","125A-Southbank Tram Depot/Light Rail (South Melbourne)",-37.827691,144.953709
+"Tram Stop","13-Lansdowne St/Victoria Pde (East Melbourne)",-37.808551,144.978806
+"Tram Stop","15-Smith St/Victoria Pde (East Melbourne)",-37.808925,144.982215
+"Tram Stop","16-Wellington St/Victoria Pde (East Melbourne)",-37.809292,144.985738
+"Tram Stop","18-Hoddle St/Victoria Pde (Collingwood)",-37.809795,144.990415
+"Tram Stop","15-Murphy St/Flemington Rd (North Melbourne)",-37.797488,144.952385
+"Tram Stop","12-Flemington Rd/Peel St (North Melbourne)",-37.801384,144.95673
+"Tram Stop","12-Flemington Rd/Peel St (North Melbourne)",-37.801548,144.956805
+"Tram Stop","11-Queensberry St/Peel St (North Melbourne)",-37.803623,144.956441
+"Tram Stop","11-Queensberry St/Peel St (North Melbourne)",-37.803307,144.956393
+"Tram Stop","126-City Rd/Clarendon St (South Melbourne)",-37.827223,144.957869
+"Tram Stop","0-Bourke St/Spring St (Melbourne City)",-37.811664,144.973246
+"Tram Stop","D1-Stadium Precinct/La Trobe St (Docklands)",-37.814566,144.946745
+"Tram Stop","1-Spencer St/Flinders St (Melbourne City)",-37.820834,144.955853
+"Tram Stop","1-Spencer St/Flinders St (Melbourne City)",-37.821051,144.955381
+"Tram Stop","2-Melbourne Aquarium/Flinders St (Melbourne City)",-37.82031,144.957821
+"Tram Stop","2-Melbourne Aquarium/Flinders St (Melbourne City)",-37.820109,144.958213
+"Tram Stop","7-Exhibition St/Collins St (Melbourne City)",-37.814215,144.970712
+"Tram Stop","7-Exhibition St/Collins St (Melbourne City)",-37.814383,144.970514
+"Tram Stop","116-City Rd/Kings Way (Southbank)",-37.8263,144.960803
+"Tram Stop","7A-William Barak Bridge/Melbourne Park (Melbourne City)",-37.818167,144.976204
+"Tram Stop","7A-William Barak Bridge/Melbourne Park (Melbourne City)",-37.818323,144.975825
+"Tram Stop","26-Alfred Hospital/Commercial Rd (Prahran)",-37.845361,144.982313
+"Tram Stop","13-Curzon St/Queensberry St (North Melbourne)",-37.802826,144.947944
+"Tram Stop","12-North Melbourne Town Hall/Queensberry St (North Melbourne)",-37.802987,144.949405
+"Tram Stop","14-Royal Melbourne Hospital/Flemington Rd (Parkville)",-37.799478,144.954886
+"Tram Stop","16-Harker St/Flemington Rd (Parkville)",-37.796419,144.951052
+"Tram Stop","19-Royal Childrens Hospital/Flemington Rd (North Melbourne)",-37.794282,144.948363
+"Tram Stop","22-Flemington Bridge Station/Flemington Rd (North Melbourne)",-37.788276,144.940932
+"Tram Stop","125-Port Junction/79 Whiteman St (Southbank)",-37.826076,144.956208
+"Tram Stop","124-Walsh St/Toorak Rd (South Yarra)",-37.838028,144.984536
+"Tram Stop","125-Punt Rd/Toorak Rd (South Yarra)",-37.83821,144.986269
+"Tram Stop","112-Lygon St/Elgin St (Carlton)",-37.797027,144.966355
+"Tram Stop","113-Lytton St/Lygon St (Carlton)",-37.794138,144.968127
+"Tram Stop","125A-Southbank Tram Depot/Light Rail (South Melbourne)",-37.827453,144.953988
+"Tram Stop","8-Richmond Station/Swan St (Cremorne)",-37.824532,144.988436
+"Tram Stop","1-Melbourne University/Swanston St (Carlton)",-37.799305,144.964192
+"Tram Stop","3-Lincoln Square/Swanston St (Carlton)",-37.80237,144.963687
+"Tram Stop","4-Queensberry St/Swanston St (Carlton)",-37.805694,144.963108
+"Tram Stop","7-RMIT University/Swanston St (Melbourne City)",-37.808139,144.96329
+"Tram Stop","8-Melbourne Central Station/Swanston St (Melbourne City)",-37.810382,144.964274
+"Tram Stop","10-Bourke Street Mall/Swanston St (Melbourne City)",-37.813199,144.965582
+"Tram Stop","11-City Square/Swanston St (Melbourne City)",-37.816378,144.967017
+"Tram Stop","13-Federation Square/Swanston St (Melbourne City)",-37.818476,144.967982
+"Tram Stop","14-Arts Precinct/St Kilda Rd (Southbank)",-37.821846,144.969514
+"Tram Stop","17-Grant St-Police Memorial/St Kilda Rd (Southbank)",-37.824169,144.970473
+"Tram Stop","19-Shrine of Remembrance/St Kilda Rd (Melbourne City)",-37.828799,144.971369
+"Tram Stop","22-Toorak Rd/St Kilda Rd (Melbourne City)",-37.835761,144.975348
+"Tram Stop","23-Arthur St/St Kilda Rd (Melbourne City)",-37.838855,144.97657
+"Tram Stop","24-Leopold St/St Kilda Rd (South Melbourne)",-37.841159,144.977405
+"Tram Stop","25-Commercial Rd/St Kilda Rd (South Melbourne)",-37.844523,144.978631
+"Tram Stop","26-Moubray St/St Kilda Rd (South Melbourne)",-37.847552,144.979719
+"Tram Stop","27-High St/St Kilda Rd (South Melbourne)",-37.849864,144.980554
+"Tram Stop","27-Lorne St/St Kilda Rd (Melbourne City)",-37.849918,144.980541
+"Tram Stop","13-Curzon St/Queensberry St (North Melbourne)",-37.802942,144.948362
+"Tram Stop","12-North Melbourne Town Hall/Errol St (North Melbourne)",-37.803224,144.949535
+"Tram Stop","14-Royal Melbourne Hospital/Flemington Rd (North Melbourne)",-37.799826,144.955205
+"Tram Stop","16-Harker St/Flemington Rd (North Melbourne)",-37.796758,144.95136
+"Tram Stop","19-Royal Childrens Hospital/Flemington Rd (North Melbourne)",-37.794141,144.94806
+"Tram Stop","20-Melrose St/Flemington Rd (North Melbourne)",-37.790474,144.94346
+"Tram Stop","22-Flemington Bridge Station/Flemington Rd (North Melbourne)",-37.788054,144.940609
+"Tram Stop","19-Shrine of Remembrance/St Kilda Rd (Melbourne City)",-37.828931,144.971229
+"Tram Stop","17-Grant St-Police Memorial/St Kilda Rd (Southbank)",-37.824634,144.970801
+"Tram Stop","14-Arts Precinct/St Kilda Rd (Southbank)",-37.821517,144.969239
+"Tram Stop","13-Federation Square/Swanston St (Melbourne City)",-37.818065,144.967675
+"Tram Stop","11-City Square/Swanston St (Melbourne City)",-37.81573,144.966569
+"Tram Stop","10-Bourke Street Mall/Swanston St (Melbourne City)",-37.812759,144.965185
+"Tram Stop","8-Melbourne Central Station/Swanston St (Melbourne City)",-37.809889,144.96389
+"Tram Stop","12-Moor St/Nicholson St (Fitzroy)",-37.801587,144.974237
+"Tram Stop","14-Rose St/Nicholson St (Carlton)",-37.795244,144.975319
+"Tram Stop","126-City Rd/Clarendon St (South Melbourne)",-37.82806,144.958346
+"Tram Stop","D14-Southern Cross Station/Collins St (Docklands)",-37.819681,144.952215
+"Tram Stop","D15-Batman's Hill/Collins St (Docklands)",-37.820266,144.950131
+"Tram Stop","D17-Merchant St/Collins St (Docklands)",-37.821527,144.945416
+"Tram Stop","D16-Harbour Esp/Collins St (Docklands)",-37.820797,144.948038
+"Tram Stop","D15-Batman's Hill/Collins St (Docklands)",-37.820074,144.950477
+"Tram Stop","D14-Southern Cross Station/Collins St (Docklands)",-37.819471,144.952596
+"Tram Stop","D16-Harbour Esp/Collins St (Docklands)",-37.820862,144.948138
+"Tram Stop","D18-Bourke St/Collins St (Docklands)",-37.820801,144.942039
+"Tram Stop","22-Toorak Rd/St Kilda Rd (Melbourne City)",-37.835752,144.97536
+"Tram Stop","123-Fawkner Park/Toorak Rd (South Yarra)",-37.83762,144.980706
+"Tram Stop","123-Fawkner Park/Toorak Rd (South Yarra)",-37.837634,144.981047
+"Train Stop","Flagstaff",-37.811827,144.956447
+"Train Stop","Flemington Bridge",-37.788137,144.939322
+"Train Stop","Jolimont",-37.8165,144.983878
+"Train Stop","Flemington Racecourse",-37.787586,144.907196
+"Train Stop","Showgrounds",-37.783552,144.914982
+"Train Stop","Flinders Street",-37.818321,144.966997
+"Train Stop","Kensington",-37.793486,144.930467
+"Train Stop","Macaulay",-37.794576,144.936113
+"Train Stop","North Melbourne",-37.806735,144.941831
+"Train Stop","Royal Park",-37.781183,144.951868
+"Train Stop","South Kensington",-37.79959,144.92532
+"Train Stop","Southern Cross",-37.818354,144.952193
+"Train Stop","Melbourne Central",-37.8097,144.963757
+"Train Stop","Parliament",-37.811929,144.973408
+"Shuttle Bus","Waterfront City, Docklands",-37.814148018233,144.937308878399
+"Shuttle Bus","Arts Precinct",-37.820228405985,144.968709481939
+"Shuttle Bus","Federation Square",-37.817327692699,144.967909588446
+"Shuttle Bus","Docklands Stadium & Victoria Harbour",-37.818327272015,144.946419019713
+"Shuttle Bus","Sports Precinct",-37.818586324179,144.981578214671
+"Shuttle Bus","William Street",-37.818131954581,144.959336570717
+"Shuttle Bus","Lygon Street Precinct",-37.799062870839,144.967216922135
+"Shuttle Bus","Queen Victoria Market",-37.807718830915,144.955655006563
+"Shuttle Bus","Southbank & Yarra River",-37.821179258026,144.96138798151
+"Shuttle Bus","University of Melbourne",-37.800052147993,144.960580435349
+"Shuttle Bus","Melbourne Museum and Carlton Gardens",-37.804705788845,144.969268527626
+"Shuttle Bus","Chinatown Precinct",-37.812791473531,144.97089160581
+"Shuttle Bus","The Shrine and Royal Botanic Gardens",-37.829329359335,144.974126576746

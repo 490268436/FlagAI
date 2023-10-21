@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0611.2007                               -->
+<workbook original-version='18.1' source-build='2023.2.0 (20232.23.0611.2007)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelExtractV2.true...ObjectModelExtractV2 />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <repository-location id='NumberofNearbyAttractionsbyDistance' path='/workbooks' revision='1.7' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='distance_data' inline='true' name='federated.1y1o31u1g6cvrt1e7ok810pdh6n2' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='distance_data' name='textscan.11nvicj1gdjetj1035mis0tfzxsu'>
+            <connection class='textscan' directory='C:/Users/xueze/Documents/Masters Study/Semester 2/GEOM90007/Assignment 3/GEOM90007_Assignment_3/script' filename='distance_data.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.11nvicj1gdjetj1035mis0tfzxsu' name='distance_data.csv' table='[distance_data#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_NZ' separator=','>
+            <column datatype='string' name='Place' ordinal='0' />
+            <column datatype='string' name='Distance' ordinal='1' />
+            <column datatype='string' name='Theme' ordinal='2' />
+            <column datatype='integer' name='Count' ordinal='3' />
+            <column datatype='string' name='PlaceNames' ordinal='4' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.11nvicj1gdjetj1035mis0tfzxsu' name='distance_data.csv' table='[distance_data#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_NZ' separator=','>
+            <column datatype='string' name='Place' ordinal='0' />
+            <column datatype='string' name='Distance' ordinal='1' />
+            <column datatype='string' name='Theme' ordinal='2' />
+            <column datatype='integer' name='Count' ordinal='3' />
+            <column datatype='string' name='PlaceNames' ordinal='4' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <refresh increment-key='' incremental-updates='false' />
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[distance_data.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_NZ&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Place</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Place]</local-name>
+            <parent-name>[distance_data.csv]</parent-name>
+            <remote-alias>Place</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Distance</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Distance]</local-name>
+            <parent-name>[distance_data.csv]</parent-name>
+            <remote-alias>Distance</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Theme</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Theme]</local-name>
+            <parent-name>[distance_data.csv]</parent-name>
+            <remote-alias>Theme</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Count</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Count]</local-name>
+            <parent-name>[distance_data.csv]</parent-name>
+            <remote-alias>Count</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PlaceNames</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PlaceNames]</local-name>
+            <parent-name>[distance_data.csv]</parent-name>
+            <remote-alias>PlaceNames</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Distance]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='distance_data.csv' datatype='table' name='[__tableau_internal_object_id__].[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]' role='measure' type='quantitative' />
+      <column-instance column='[Distance]' derivation='None' name='[none:Distance:nk]' pivot='key' type='nominal' />
+      <extract _.fcp.ObjectModelExtractV2.true...object-id='' _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_GB' class='hyper' dbname='C:/Users/xueze/Documents/我的 Tableau 存储库/数据源/distance_data.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='10/08/2023 01:37:56 PM' username='tableau_internal_user'>
+          <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh increment-key='' incremental-updates='false'>
+            <refresh-event add-from-file-path='distance_data' increment-value='%null%' refresh-type='create' rows-inserted='3294' timestamp-start='2023-10-08 13:37:56.288' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Place</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Place]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Place</remote-alias>
+              <ordinal>0</ordinal>
+              <family>distance_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>207</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Distance</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Distance]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Distance</remote-alias>
+              <ordinal>1</ordinal>
+              <family>distance_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Theme</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Theme]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Theme</remote-alias>
+              <ordinal>2</ordinal>
+              <family>distance_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Count</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Count]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Count</remote-alias>
+              <ordinal>3</ordinal>
+              <family>distance_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>66</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PlaceNames</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[PlaceNames]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PlaceNames</remote-alias>
+              <ordinal>4</ordinal>
+              <family>distance_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>1042</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[distance_data.csv_8BD87103CCD34631921279D9D81B48D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Distance:nk]' type='palette'>
+            <map to='#59a14f'>
+              <bucket>&quot;Within 500m&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;5km - 10km&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;500m - 1km&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;1km - 5km&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;New Zealand&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='distance_data.csv' id='distance_data.csv_8BD87103CCD34631921279D9D81B48D2'>
+            <properties context=''>
+              <relation connection='textscan.11nvicj1gdjetj1035mis0tfzxsu' name='distance_data.csv' table='[distance_data#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_NZ' separator=','>
+                  <column datatype='string' name='Place' ordinal='0' />
+                  <column datatype='string' name='Distance' ordinal='1' />
+                  <column datatype='string' name='Theme' ordinal='2' />
+                  <column datatype='integer' name='Count' ordinal='3' />
+                  <column datatype='string' name='PlaceNames' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <actions>
+    <action caption='Highlight 1 (generated)' name='[Action1_752D01C2DF9C4CF2A8E76914827B9FDB]'>
+      <activation auto-clear='true' type='on-select' />
+      <source type='sheet' worksheet='Number of Nearby Attractions by Distance' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='Distance' />
+        <param name='target' value='Number of Nearby Attractions by Distance' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Number of Nearby Attractions by Distance'>
+      <layout-options>
+        <title>
+          <formatted-text />
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='distance_data' name='federated.1y1o31u1g6cvrt1e7ok810pdh6n2' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1y1o31u1g6cvrt1e7ok810pdh6n2'>
+            <column datatype='integer' name='[Count]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Distance]' role='dimension' type='nominal' />
+            <column datatype='string' name='[PlaceNames]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Place]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Theme]' role='dimension' type='nominal' />
+            <column-instance column='[Distance]' derivation='None' name='[none:Distance:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Place]' derivation='None' name='[none:Place:nk]' pivot='key' type='nominal' />
+            <column-instance column='[PlaceNames]' derivation='None' name='[none:PlaceNames:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Theme]' derivation='None' name='[none:Theme:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Count]' derivation='Sum' name='[sum:Count:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Distance:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Within 500m&quot;</bucket>
+              <bucket>&quot;500m - 1km&quot;</bucket>
+              <bucket>&quot;1km - 5km&quot;</bucket>
+              <bucket>&quot;5km - 10km&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Place:nk]'>
+            <groupfilter function='empty-level' member='[none:Place:nk]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Place:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='display' class='0' field='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[sum:Count:qk]' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Place:nk]' value='114' />
+            <format attr='width' field='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Theme:nk]' value='112' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Distance:nk]' />
+              <lod column='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Place:nk]' />
+              <lod column='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:PlaceNames:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Distance:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Distance:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Theme:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Theme:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Count:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[sum:Count:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[sum:Count:qk]</rows>
+        <cols>[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Theme:nk]</cols>
+      </table>
+      <simple-id uuid='{42CC30C6-C03E-4337-8680-854B7C8AE4F2}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Number of Nearby Attractions by Distance'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='249'>
+            <card pane-specification-id='0' param='[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Distance:nk]' show-title='false' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-height' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:Place:nk]</field>
+            <field>[federated.1y1o31u1g6cvrt1e7ok810pdh6n2].[none:PlaceNames:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{10FCFF6C-7AA8-42BB-A621-6BCBA6B4BE3D}' />
+    </window>
+  </windows>
+</workbook>

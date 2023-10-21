@@ -1,0 +1,70 @@
+.custom-button {
+    width: 200px; 
+}
+  
+.adaptive-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.adaptive-card .card-body {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.adaptive-card .card-img-top {
+    margin-top: 10px;
+}
+
+.content-wrapper, .right-side {
+    background-color: #CCCCCC;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #F2E836 !important;
+    background-color: #E95420 !important;
+}
+
+div.outer {
+  position: fixed;
+  top: 41px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+/* Customize fonts */
+body, label, input, button, select { 
+  font-family: 'Helvetica Neue', Helvetica;
+  font-weight: 200;
+}
+h1, h2, h3, h4 { font-weight: 400; }
+
+#controls {
+  /* Appearance */
+  background-color: #CCCCCC;
+  padding: 10px 10px 0px 10px;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.65;
+  zoom: 0.9;
+  transition: opacity 500ms 1s;
+  z-index: 2500 !important;
+}
+#controls:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
+
+/* Position and style citation */
+#cite {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-size: 12px;
+}
